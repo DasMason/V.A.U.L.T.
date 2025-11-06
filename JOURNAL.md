@@ -17,3 +17,12 @@ It was relatively easy to find information and help on the project and it hopefu
 Attatched screenshot of my notes app because I dont have any preview images or anything yet.![Screenshot 2025-11-05 at 7.23.26 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc3MywicHVyIjoiYmxvYl9pZCJ9fQ==--66a7bd57ec77077d3264fcf43e05635ab8cf7b0f/Screenshot%202025-11-05%20at%207.23.26%E2%80%AFPM.png)
   
 
+## 11/6/2025 - Modeled a basic faceplate for the chassis  
+
+I used onshape to model a faceplate to use with cutouts for the different parts (Screen, RFID, Fingerprint, and Keypad) and plan to 3D print it when I am assembling it.
+
+It was pretty difficult to learn onshape as I have not really used a CAD software before, but it wasn't too complicated once I got the hang of it. I want to try to fit all the parts I plan to use with Onshape's public 3d model library.
+
+![Screenshot 2025-11-06 at 10.47.36 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--51c536f8da4fd65d6c5fdba1b4020f4d0b26cca0/Screenshot%202025-11-06%20at%2010.47.36%E2%80%AFAM.png)
+  
+
